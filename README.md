@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/n3n099ysap5ymgrx/branch/master?svg=true)](https://ci.appveyor.com/project/maria-namira/lifecycle-http-crud-frontend/branch/master)
 
-### Deployment:  <a href="https://maria-namira/lifecycle-http-crud-frontend/branch/master/">Github Pages</a>
+### Deployment:  <a href="https://github.com/maria-namira/lifecycle_http-crud-backend">Github Pages</a>
 
 CRUD
 ===
